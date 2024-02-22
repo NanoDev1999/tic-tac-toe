@@ -11,7 +11,7 @@ tic_tac_toe = "9kffPznNDDM4eCwLha9VacxhvoibjoPT9vHt2dH3NB9i"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "private/my-keypair.json"
 
 [scripts]
